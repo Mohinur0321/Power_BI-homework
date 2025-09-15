@@ -1,0 +1,5 @@
+1. Applied steps keep record of all data transformation and manipulations. With applied steps it is very easy to remove unnecessarily done steps.
+2. REduce rows- Remove rows - Remove duplicates
+3. FIlters based on condition
+4. In transform data there is transform and there is rename. thats how you rename column name
+5. the query editor closes and opens desktop
